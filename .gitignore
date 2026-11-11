@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+# saídas geradas com dados reais
+*.csv
+*.xlsx
+relatorio*.txt
+resultado*.csv
+base*.txt
